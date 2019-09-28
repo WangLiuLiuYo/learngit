@@ -9,3 +9,6 @@ i want to see git's magic!
 new line in testgit 16:30.
 
 other new line in 16:38.
+
+
+add line by master 22:44.
