@@ -11,4 +11,9 @@ new line in testgit 16:30.
 other new line in 16:38.
 
 
+<<<<<<< HEAD
 add line by master 22:44.
+=======
+
+
+
