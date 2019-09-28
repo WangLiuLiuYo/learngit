@@ -2,3 +2,6 @@ there are some words in txt file.
 i am learning git bash!
 ok , i append a line now.
 let's git again.
+
+i will change them again again!
+i want to see git's magic!
